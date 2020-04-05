@@ -1,0 +1,293 @@
+{
+   "gameAttributes":[
+      {
+         "key":"luxuryPayroll",
+         "value":123000
+      },
+      {
+         "key":"luxuryTax",
+         "value":1.5
+      },
+      {
+         "key":"maxContract",
+         "value":30000
+      },
+      {
+         "key":"minContract",
+         "value":850
+      },
+      {
+         "key":"minPayroll",
+         "value":89000
+      },
+      {
+         "key":"salaryCap",
+         "value":101000
+      },
+      {
+         "key":"maxRosterSize",
+         "value":17
+      },
+      {
+      "key": "confs",
+      "value": [
+        {
+          "cid": 0,
+          "name": "Prince of Wales"
+        },
+        {
+          "cid": 1,
+          "name": "Campbell"
+        }
+      ]
+    },
+    {
+      "key": "divs",
+      "value": [
+        {
+          "did": 0,
+          "cid": 0,
+          "name": "Adams"
+        },
+        {
+          "did": 1,
+          "cid": 0,
+          "name": "Patrick"
+        },
+        {
+          "did": 2,
+          "cid": 1,
+          "name": "Norris"
+        },
+        {
+          "did": 3,
+          "cid": 1,
+          "name": "Smythe"
+        }
+      ]
+    }
+   ],
+   "startingSeason": 1992,
+   "teams": [
+	{
+		"tid": 0,
+		"cid": 0,
+		"did": 0,
+		"region": "Boston",
+		"name": "Bruins",
+		"abbrev": "BOS",
+		"imgURL": "https://d2p3bygnnzw9w3.cloudfront.net/req/202002101/tlogo/hr/BOS-1992.png",
+		"pop": 2.775
+	},
+	{
+		"tid": 1,
+		"cid": 0,
+		"did": 0,
+		"region": "Buffalo",
+		"name": "Sabres",
+		"abbrev": "BUF",
+		"imgURL": "https://d2p3bygnnzw9w3.cloudfront.net/req/202002101/tlogo/hr/BUF-1992.png",
+		"pop": 0.954
+	},
+	{
+		"tid": 2,
+		"cid": 1,
+		"did": 3,
+		"region": "Calgary",
+		"name": "Flames",
+		"abbrev": "CGY",
+		"imgURL": "https://d2p3bygnnzw9w3.cloudfront.net/req/202002101/tlogo/hr/CGY-1992.png",
+		"pop": 0.754
+	},
+	{
+		"tid": 3,
+		"cid": 1,
+		"did": 2,
+		"region": "Chicago",
+		"name": "Blackhawks",
+		"abbrev": "CHI",
+		"imgURL": "https://d2p3bygnnzw9w3.cloudfront.net/req/202002101/tlogo/hr/CHI-1992.png",
+		"pop": 6.792
+	},
+	{
+		"tid": 4,
+		"cid": 1,
+		"did": 2,
+		"region": "Detroit",
+		"name": "Red Wings",
+		"abbrev": "DET",
+		"imgURL": "https://d2p3bygnnzw9w3.cloudfront.net/req/202002101/tlogo/hr/DET-1992.png",
+		"pop": 3.697
+	},
+	{
+		"tid": 5,
+		"cid": 1,
+		"did": 3,
+		"region": "Edmonton",
+		"name": "Oilers",
+		"abbrev": "EDM",
+		"imgURL": "https://d2p3bygnnzw9w3.cloudfront.net/req/202002101/tlogo/hr/EDM-1992.png",
+		"pop": 0.84
+	},
+	{
+		"tid": 6,
+		"cid": 0,
+		"did": 0,
+		"region": "Hartford",
+		"name": "Whalers",
+		"abbrev": "HAR",
+		"imgURL": "https://d2p3bygnnzw9w3.cloudfront.net/req/202002101/tlogo/hr/HAR-1992.png",
+		"pop": 0.546
+	},
+	{
+		"tid": 7,
+		"cid": 1,
+		"did": 3,
+		"region": "Los Angeles",
+		"name": "Kings",
+		"abbrev": "LAK",
+		"imgURL": "https://d2p3bygnnzw9w3.cloudfront.net/req/202002101/tlogo/hr/LAK-1992.png",
+		"pop": 11.402
+	},
+	{
+		"tid": 8,
+		"cid": 1,
+		"did": 2,
+		"region": "Minnesota",
+		"name": "North Stars",
+		"abbrev": "MIN",
+		"imgURL": "https://d2p3bygnnzw9w3.cloudfront.net/req/202002101/tlogo/hr/MNS-1992.png",
+		"pop": 2.079
+	},
+	{
+		"tid": 9,
+		"cid": 0,
+		"did": 0,
+		"region": "Montreal",
+		"name": "Canadiens",
+		"abbrev": "MTL",
+		"imgURL": "https://d2p3bygnnzw9w3.cloudfront.net/req/202002101/tlogo/hr/MTL-1992.png",
+		"pop": 3.127
+	},
+	{
+		"tid": 10,
+		"cid": 0,
+		"did": 1,
+		"region": "New Jersey",
+		"name": "Devils",
+		"abbrev": "NJD",
+		"imgURL": "https://d2p3bygnnzw9w3.cloudfront.net/req/202002101/tlogo/hr/NJD-1992.png",
+		"pop": 16.044
+	},
+	{
+		"tid": 11,
+		"cid": 0,
+		"did": 1,
+		"region": "New York",
+		"name": "Islanders",
+		"abbrev": "NYI",
+		"imgURL": "https://d2p3bygnnzw9w3.cloudfront.net/req/202002101/tlogo/hr/NYI-1992.png",
+		"pop": 16.044
+	},
+	{
+		"tid": 12,
+		"cid": 0,
+		"did": 1,
+		"region": "New York",
+		"name": "Rangers",
+		"abbrev": "NYR",
+		"imgURL": "https://d2p3bygnnzw9w3.cloudfront.net/req/202002101/tlogo/hr/NYR-1992.png",
+		"pop": 16.044
+	},
+	{
+		"tid": 13,
+		"cid": 0,
+		"did": 1,
+		"region": "Philadelphia",
+		"name": "Flyers",
+		"abbrev": "PHI",
+		"imgURL": "https://d2p3bygnnzw9w3.cloudfront.net/req/202002101/tlogo/hr/PHI-1992.png",
+		"pop": 4.222
+	},
+	{
+		"tid": 14,
+		"cid": 0,
+		"did": 1,
+		"region": "Pittsburgh",
+		"name": "Penguins",
+		"abbrev": "PIT",
+		"imgURL": "https://d2p3bygnnzw9w3.cloudfront.net/req/202002101/tlogo/hr/PIT-1992.png",
+		"pop": 1.678
+	},
+	{
+		"tid": 15,
+		"cid": 0,
+		"did": 0,
+		"region": "Quebec",
+		"name": "Nordiques",
+		"abbrev": "QUE",
+		"imgURL": "https://d2p3bygnnzw9w3.cloudfront.net/req/202002101/tlogo/hr/QUE-1992.png",
+		"pop": 0.646
+	},
+	{
+		"tid": 16,
+		"cid": 1,
+		"did": 3,
+		"region": "San Jose",
+		"name": "Sharks",
+		"abbrev": "SJS",
+		"imgURL": "https://d2p3bygnnzw9w3.cloudfront.net/req/202002101/tlogo/hr/SJS-1992.png",
+		"pop": 5.065
+	},
+	{
+		"tid": 17,
+		"cid": 1,
+		"did": 2,
+		"region": "St. Louis",
+		"name": "Blues",
+		"abbrev": "STL",
+		"imgURL": "https://d2p3bygnnzw9w3.cloudfront.net/req/202002101/tlogo/hr/STL-1992.png",
+		"pop": 1.946
+	},
+	{
+		"tid": 18,
+		"cid": 1,
+		"did": 2,
+		"region": "Toronto",
+		"name": "Maple Leafs",
+		"abbrev": "TOR",
+		"imgURL": "https://d2p3bygnnzw9w3.cloudfront.net/req/202002101/tlogo/hr/TOR-1992.png",
+		"pop": 3.893
+	},
+	{
+		"tid": 19,
+		"cid": 1,
+		"did": 3,
+		"region": "Vancouver",
+		"name": "Canucks",
+		"abbrev": "VAN",
+		"imgURL": "https://d2p3bygnnzw9w3.cloudfront.net/req/202002101/tlogo/hr/VAN-1992.png",
+		"pop": 1.603
+	},
+	{
+		"tid": 20,
+		"cid": 0,
+		"did": 1,
+		"region": "Washington",
+		"name": "Capitals",
+		"abbrev": "WAS",
+		"imgURL": "https://d2p3bygnnzw9w3.cloudfront.net/req/202002101/tlogo/hr/WSH-1992.png",
+		"pop": 3.363
+	},
+	{
+		"tid": 21,
+		"cid": 1,
+		"did": 3,
+		"region": "Winnipeg",
+		"name": "Jets",
+		"abbrev": "WIN",
+		"imgURL": "https://d2p3bygnnzw9w3.cloudfront.net/req/202002101/tlogo/hr/WIN-1992.png",
+		"pop": 0.652
+	}
+]
+}
